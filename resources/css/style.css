@@ -1,4 +1,9 @@
 * {
     font-family: Verdana;
     background-color: black;
+    color:white;
+}
+
+header, #guide {
+    text-align:center;
 }
